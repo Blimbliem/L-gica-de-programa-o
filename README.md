@@ -1,2 +1,2 @@
-# L-gica-de-programa-o
+# Logica de programacao
 Curso de logica de programação da DIO com javascript
